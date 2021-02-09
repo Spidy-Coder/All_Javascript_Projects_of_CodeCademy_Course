@@ -25,5 +25,5 @@ There are some projects you will come across which are listed here one by one.
 15. <b>Message Mixer</b>
 16. <b>Work Around</b>
 
-### ✒NOTE:-THESE PROJECTS ARE UNDER CONSTRUCTION RIGHT NOW.SOME OF THEM ARE ALREADY UPLOADED.
+### ✒NOTE:-THESE PROJECTS ARE UNDER CONSTRUCTION RIGHT NOW. SOME OF THEM ARE ALREADY UPLOADED.
 and OTHER projects will be uploaded soon...
