@@ -15,5 +15,15 @@ There are some projects you will come across which are listed here one by one.
 5. <b>Rock, paper, or scissors</b>
 6. <b>Sleep Dept Calculator</b>
 7. <b>Secret Message</b>
+8. <b>Whale Talk</b>
+9. <b>Mini Linter</b>
+10. <b>Meal Maker</b>
+11. <b>Team Stats</b>
+12. <b>Build a Library</b>
+13. <b>School Catalogue</b>
+14. <b>Transpilation</b>
+15. <b>Message Mixer</b>
+16. <b>Work Around</b>
 
-and many more to come soon...
+### ✒NOTE:-THESE PROJECTS ARE UNDER CONSTRUCTION RIGHT NOW.SOME OF THEM ARE ALREADY UPLOADED.
+and OTHER projects will be uploaded soon...
