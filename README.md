@@ -3,6 +3,8 @@ This repository contains all the projects you might have seen while learning Jav
 
 There are some projects you will come across which are listed here one by one. 
 
+Hope you find it useful.
+
 ## ✔<b>These Projects are Beginner friendly🎉 
 <b>For finding the Actuall course link <a href = "https://www.codecademy.com/learn/introduction-to-javascript">follow this link</a></b>
 
